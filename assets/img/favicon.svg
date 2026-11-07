@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+  <style>rect{fill:#e4ebf2}path,polygon{fill:#b0122d}@media (prefers-color-scheme:dark){rect{fill:#0c1420}path,polygon{fill:#ff5d70}}</style>
+  <rect width="64" height="64" rx="10"/>
+  <g transform="rotate(-8 32 32)">
+    <path d="M10 12h44v40H10z M14 16v32h36V16z" fill-rule="evenodd"/>
+    <polygon points="19,20 26,20 32,40 38,20 45,20 35,46 29,46"/>
+  </g>
+</svg>
